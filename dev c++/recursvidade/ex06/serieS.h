@@ -1,0 +1,1 @@
+char intN(int x);
